@@ -28,4 +28,4 @@ npm run dev
 npm run build
 ```
 
-###The github of the MiniYouTube project Frontend is https://github.com/YancyCao/6156-MiniYouTube-Frontend.git
+
